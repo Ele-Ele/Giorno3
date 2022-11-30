@@ -1,0 +1,29 @@
+.Titol {
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 700;
+}
+.orange {
+  color: rgba(221, 126, 71, 0.986);
+}
+.strong {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+.bold {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-weight: 600;
+}
+section > div {
+  border-left: 1px solid #ffd977;
+  width: 100%;
+  padding-left: 1rem;
+  grid-template-columns: min-content 1fr;
+  row-gap: 0.25rem;
+}
+.green {
+  color: #328b91;
+  font-weight: 600;
+}
